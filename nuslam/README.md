@@ -17,7 +17,7 @@ https://youtu.be/QlarJMluz2w
 
 Screenshot of Simulation Demonstration of SLAM with unknown data association:
 
-![Sim SLAM File Image](./images/slam_sim_final.png)
+![Sim SLAM File Image](images/nuslam_sim_final.png)
 
 
 ### Real Demo
@@ -28,7 +28,7 @@ https://youtu.be/V0X_N7h8JZE
 
 Screenshot of Real Demonstration of SLAM with unknown data association: 
 
-![Real SLAM File Image](./images/slam_real_final.png)
+![Real SLAM File Image](images/nuslam_real_final.png)
 
 ## Launch Files
 * `ros2 launch nuslam nuslam.launch.xml` to launch a controller for the Turtlebot3, RVIZ simulation of EKF SLAM Robot (Green)

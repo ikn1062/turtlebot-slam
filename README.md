@@ -15,22 +15,22 @@ This repository consists of several ROS packages
 
 Video of Simulation Demonstration of SLAM with unknown data association:
 
-**INSERT VIDEO HERE**
+https://youtu.be/QlarJMluz2w
 
 
 Screenshot of Simulation Demonstration of SLAM with unknown data association:
 
-![Sim SLAM File Image](nuslam/images/slam_sim_final.png)
+![Sim SLAM File Image](nuslam/images/nuslam_sim_final.png)
 
 
 ### Real Demo
 
 Video of Real Demonstration of SLAM with unknown data association:
 
-**INSERT VIDEO HERE**
+https://youtu.be/eQ56fAfpJGk
 
 
 Screenshot of Real Demonstration of SLAM with unknown data association: 
 
-![Real SLAM File Image](nuslam/images/slam_real_final.png)
+![Real SLAM File Image](nuslam/images/nuslam_real_final.png)
 

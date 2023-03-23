@@ -1,0 +1,10 @@
+nusim_node:
+  ros__parameters:
+    body_id: "green/base_footprint"
+    odom_id: "green/odom"
+    wheel_left: "left_joint_wheel"
+    wheel_right: "right_joint_wheel"
+    w0: 0.0
+    x0: 0.0
+    y0: 0.0
+    max_range: 2.0

@@ -1,0 +1,9 @@
+nusim_node:
+  ros__parameters:
+    body_id: "blue/base_footprint"
+    odom_id: "blue_odom"
+    wheel_left: "left_joint_wheel"
+    wheel_right: "right_joint_wheel"
+    w0: 0.0
+    x0: 0.0
+    y0: 0.0

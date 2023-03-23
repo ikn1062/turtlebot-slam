@@ -1,0 +1,13 @@
+nusim_node:
+  ros__parameters:
+    rate: 500.0
+    x0: -0.6
+    y0: 0.8
+    w0: 1.57
+    obstacles/x: [-0.6, 0.7, 0.5]
+    obstacles/y: [-0.8, -0.7, 0.9]
+    obstacles/r: 0.038
+    x_length: 4.0
+    y_length: 4.0    
+    motor_cmd_per_rad_sec: 0.024
+    encoder_ticks_per_rad: 4096

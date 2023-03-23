@@ -1,0 +1,25 @@
+nusim_node:
+  ros__parameters:
+    rate: 500.0
+    x0: -0.6
+    y0: 0.8
+    w0: 1.57
+    obstacles/x: [-0.6, 0.7, 0.5]
+    obstacles/y: [-0.8, -0.7, 0.9]
+    obstacles/r: 0.038
+    x_length: 4.0
+    y_length: 4.0    
+    motor_cmd_per_rad_sec: 0.024
+    encoder_ticks_per_rad: 4096
+    input_noise: 0.2
+    slip_fraction: 0.2
+    basic_sensor_variance: 0.005
+    max_range: 2.1
+    collision_radius: 0.05
+    laser_variance: 0.002
+    angle_max: 6.26573
+    angle_min: 0.0
+    angle_increment: 0.01745
+    scan_time: 0.20066
+    range_min: 0.11999
+    range_max: 3.5
